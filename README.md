@@ -4,6 +4,9 @@ Automix de DJ open source. Arraste suas musicas, configure transicoes e renderiz
 
 Inspirado no MixMeister Fusion — leve, extensivel e 100% local.
 
+<img width="1745" height="931" alt="Captura de Tela 2026-02-21 às 23 15 26" src="https://github.com/user-attachments/assets/fd5e13c1-d7fa-4669-959b-d8aba28d6b10" />
+
+
 ## Features
 
 - Analise automatica: BPM (3 metodos), beat grid, cue points, energia, key/Camelot
