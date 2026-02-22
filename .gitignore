@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+backend/.venv/
+backend/venv/
+
+# Node
+node_modules/
+frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# DJMIX temporários
+*.wav
+*.mp3
+!backend/effects/*.wav
+!backend/transitions/*.wav
+
+# Env
+.env
+.env.local
+
+# Claude Code
+.claude/
